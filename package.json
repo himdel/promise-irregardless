@@ -1,0 +1,25 @@
+{
+  "name": "promise-irregardless",
+  "version": "1.0.0",
+  "description": "Adds `irregardless`, `regardless` and `always` as aliases for `Promise.prototype.finally`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himdel/promise-irregardless.git"
+  },
+  "keywords": [
+    "promise",
+    "irregardless",
+    "regardless",
+    "always"
+  ],
+  "author": "Martin Hradil <himdel@seznam.cz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himdel/promise-irregardless/issues"
+  },
+  "homepage": "https://github.com/himdel/promise-irregardless#readme"
+}
